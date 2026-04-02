@@ -25,10 +25,10 @@
 ---
 
 > **⚠️ SECURITY NOTICE:**
-> Repositori ini bersifat rahasia (*Confidential*) dan diperuntukkan khusus untuk keperluan internal PT Pelabuhan Indonesia (Persero) Regional 2 Teluk Bayur. Dilarang keras mendistribusikan kode sumber tanpa otorisasi dari Kepala Divisi Teknik.
+> Repositori ini bersifat rahasia (*Confidential*) dan diperuntukkan khusus untuk keperluan internal PT Pelabuhan Indonesia (Persero) Regional 2 Teluk Bayur. Dilarang keras mendistribusikan kode sumber tanpa otorisasi dari Kepala Divisi.
 
 ## 📑 Ringkasan Eksekutif (Executive Summary)
-**MERCU** adalah portal web interaktif yang dikembangkan untuk memodernisasi alur pelaporan kerusakan fasilitas di lingkungan pelabuhan. Sistem ini bertindak sebagai pusat komando yang menghubungkan laporan karyawan dengan tim teknisi secara *real-time*, memastikan setiap aset perusahaan beroperasi pada performa maksimal.
+**MERCU** adalah portal web interaktif yang dikembangkan untuk memodernisasi alur pelaporan kerusakan fasilitas di lingkungan kantor. Sistem ini bertindak sebagai pusat komando yang menghubungkan laporan karyawan dengan tim teknisi secara *real-time*, memastikan setiap aset perusahaan beroperasi pada performa maksimal.
 
 ## 🔐 Protokol Akses Repositori
 Karena status repositori yang tertutup, akses kode sumber hanya diberikan kepada personel yang berwenang.
