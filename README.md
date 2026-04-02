@@ -1,44 +1,41 @@
 <div align="center">
-  <pre>
-       |    |    |
-      )_)  )_)  )_)
-     )___))___))___)\
-    )____)____)_____)\\
-  _____|____|____|____\\\__
-  \    M E R C U   2026   /
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  </pre>
 
-  <h1>⚓ M E R C U ⚓</h1>
-  <p><b>Manajemen E-Reporting & Care Unit</b></p>
-  <p><i>"Navigasi Cepat, Fasilitas Hebat."</i></p>
+<pre>
+███╗   ███╗███████╗██████╗  ██████╗██╗   ██╗
+████╗ ████║██╔════╝██╔══██╗██╔════╝██║   ██║
+██╔████╔██║█████╗  ██████╔╝██║     ██║   ██║
+██║╚██╔╝██║██╔══╝  ██╔══██╗██║     ██║   ██║
+██║ ╚═╝ ██║███████╗██║  ██║╚██████╗╚██████╔╝
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
+</pre>
 
-  <img src="https://img.shields.io/badge/Hull-Laravel_11-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel">
-  <img src="https://img.shields.io/badge/Engine-Node.js_&_Vite-646CFF?style=for-the-badge&logo=vite" alt="Vite">
-  <img src="https://img.shields.io/badge/Sails-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind">
+**[ RESTRICTED ACCESS // INTERNAL PELINDO REGIONAL 2 TELUK BAYUR ]**
+
+<p><b>Manajemen E-Reporting & Care Unit</b></p>
+<p><i>Sistem Informasi Pelaporan dan Pemeliharaan Fasilitas Operasional</i></p>
+
+<img src="https://img.shields.io/badge/Status-Private_Repository-black?style=for-the-badge&logo=github" alt="Private">
+<img src="https://img.shields.io/badge/Framework-Laravel_11-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel">
+<img src="https://img.shields.io/badge/Build_Tool-Vite-646CFF?style=for-the-badge&logo=vite" alt="Vite">
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=USERNAME-KAMU&label=SYSTEM%20VIEWS&color=0e75b6&style=for-the-badge" alt="Views">
+
 </div>
 
 ---
 
-## 📜 Log Kapten (Manifesto)
-**MERCU** bukanlah sekadar aplikasi *helpdesk* biasa. Ini adalah "Sistem Radar Utama" yang dirancang khusus untuk memantau, melaporkan, dan menjaga stabilitas fasilitas operasional di kawasan Pelindo Regional 2 Teluk Bayur. Ketika ada "kebocoran" atau "kerusakan di dek kantor", MERCU memastikan laporan tersebut sampai ke tim teknisi secepat kilat mercusuar.
+> **⚠️ SECURITY NOTICE:**
+> Repositori ini bersifat rahasia (*Confidential*) dan diperuntukkan khusus untuk keperluan internal PT Pelabuhan Indonesia (Persero) Regional 2 Teluk Bayur. Dilarang keras mendistribusikan kode sumber tanpa otorisasi dari Kepala Divisi Teknik.
 
-## ⚙️ Ruang Mesin (Tech Stack)
-Kapal ini dibangun dengan material tempur terbaik agar tahan banting di segala cuaca operasional:
-- **Kerangka Bawah (Backend):** Laravel
-- **Layar Utama (Frontend):** Blade Templates + Tailwind CSS
-- **Sistem Propulsi (Assets Builder):** Vite (dikendalikan oleh Node.js)
+## 📑 Ringkasan Eksekutif (Executive Summary)
+**MERCU** adalah portal web interaktif yang dikembangkan untuk memodernisasi alur pelaporan kerusakan fasilitas di lingkungan pelabuhan. Sistem ini bertindak sebagai pusat komando yang menghubungkan laporan karyawan dengan tim teknisi secara *real-time*, memastikan setiap aset perusahaan beroperasi pada performa maksimal.
 
-## 🗺️ Peta Navigasi (Fitur Utama)
-- 📡 **Radar Laporan:** Pemantauan tiket kerusakan fasilitas secara *real-time*.
-- 📸 **Sonar Visual:** Fitur unggah foto bukti kerusakan langsung dari lokasi.
-- 🚦 **Sinyal Status:** Indikator visual interaktif (*Menunggu, Diproses, Selesai*).
+## 🔐 Protokol Akses Repositori
+Karena status repositori yang tertutup, akses kode sumber hanya diberikan kepada personel yang berwenang.
 
-## ⚓ Persiapan Berlayar (Instalasi)
-Siap membawa kapal ini ke perairan lokalmu? Buka terminal di OS andalanmu dan ikuti instruksi pendaratan berikut:
-
-### 1. Bersandar di Dermaga Lokal
-Kloning repositori ini ke dalam sistemmu:
-```bash
-git clone [https://github.com/username-kamu/mercu-app.git](https://github.com/username-kamu/mercu-app.git)
-cd mercu-app
+1. **Permintaan Akses:** Ajukan *Pull Request* atau hubungi Lead Developer (Zacky) untuk mendapatkan akses otorisasi Git.
+2. **Autentikasi:** Pastikan SSH Key mesin lokal Anda (terutama jika menggunakan *environment* berbasis Parrot OS atau distribusi Linux lainnya) telah didaftarkan pada server internal.
+3. **Inisialisasi Lokal:** Setelah mendapatkan akses, jalankan *pull* dari repositori internal, kemudian inisialisasi *environment*:
+   ```bash
+   composer install --no-dev
+   npm install
