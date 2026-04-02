@@ -1,70 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=Waving&color=0054A6&height=250&section=header&text=M%20E%20R%20C%20U&fontSize=70&animation=fadeIn&fontColor=FFFFFF&desc=%5B%20RESTRICTED%20ACCESS%20//%20INTERNAL%20PELINDO%20REGIONAL%202%20%5D&descSize=20&descAlignVertical=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/render?type=Venom&color=0054A6&height=250&section=header&text=M%20E%20R%20C%20U&fontSize=80&animation=fadeIn&fontColor=FFFFFF&desc=MANAGEMENT%20E-REPORTING%20%26%20CARE%20UNIT&descSize=20&descAlignVertical=60" width="100%"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqZnd4YW5reGZ4bmhxZnd4YW5reGZ4bmhxZnd4YW5reGZ4bmhxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/Lp8YV8Wv1YvV4Wv1Yv/giphy.gif" width="120px">
+<br>
 
-## MANAJEMEN E-REPORTING & CARE UNIT
-**Sistem Informasi Pelaporan dan Pemeliharaan Fasilitas Operasional**
-
----
-
-<div class="technical-badges">
-  <img src="https://img.shields.io/badge/SECURITY_LEVEL-CONFIDENTIAL-red?style=for-the-badge" alt="Confidential">
-  <img src="https://img.shields.io/badge/ORGANIZATION-PELINDO_REGIONAL_2-0054A6?style=for-the-badge" alt="Pelindo">
-  <img src="https://img.shields.io/badge/REPOSITORY-PRIVATE_ACCESS-black?style=for-the-badge" alt="Private">
-</div>
-
-<div class="stack-badges" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/FRAMEWORK-LARAVEL_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/BUILD-VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/OS-PARROT_OS-51B63E?style=for-the-badge&logo=parrotos&logoColor=white" alt="ParrotOS">
+<div class="identity-header">
+  <img src="https://img.shields.io/badge/OFFICIAL_INTERNAL_SYSTEM-PT_PELABUHAN_INDONESIA_(PERSERO)-0054A6?style=for-the-badge" alt="Pelindo Official">
 </div>
 
 <br>
 
-<div class="views-badges">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Zacky-Pelindo&label=RECOGNIZED_ACCESS_TOTAL&color=0e75b6&style=for-the-badge" alt="Views">
-  <img src="https://img.shields.io/github/last-commit/Muhammad-Zacky/MERCU?style=for-the-badge&label=LAST_SYSTEM_UPDATE&color=28a745" alt="Last Commit">
+### INFRASTRUCTURE MONITORING & FACILITY MAINTENANCE
+**Internal Operational Command Center | Regional 2 Teluk Bayur**
+
+---
+
+<div class="analytics-board">
+  <img src="https://img.shields.io/badge/SECURITY_CLASSIFICATION-TOP_SECRET-black?style=flat-square&logo=gitbook&logoColor=red" alt="Security Classification">
+  <img src="https://img.shields.io/badge/NETWORK_STATUS-RESTRICTED-orange?style=flat-square&logo=locked&logoColor=white" alt="Network Status">
+  <img src="https://img.shields.io/badge/SERVER_LOCATION-INTERNAL_DATACENTER-0054A6?style=flat-square&logo=server&logoColor=white" alt="Server Location">
+</div>
+
+<div class="tech-stack-board" style="margin-top: 5px;">
+  <img src="https://img.shields.io/badge/ARCHITECTURE-LARAVEL_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Architecture">
+  <img src="https://img.shields.io/badge/ASSET_ENGINE-VITE_V5-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/ENVIRONMENT-PARROT_OS-51B63E?style=flat-square&logo=parrotos&logoColor=white" alt="ParrotOS">
+</div>
+
+<br>
+
+<div class="metrics-container">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Zacky-MERCU&label=SYSTEM_ACCESS_COUNT&color=0054A6&style=for-the-badge" alt="System Access Count">
+  <img src="https://img.shields.io/github/last-commit/Muhammad-Zacky/MERCU?style=for-the-badge&label=LAST_SYSTEM_STAGING&color=28a745" alt="Last System Staging">
 </div>
 
 </div>
 
 ---
 
-### NOTIFIKASI RESTRIKSI INFORMASI (INFORMATION RESTRICTION NOTICE)
+### PROSEDUR KERAHASIAAN INFORMASI (DATA CONFIDENTIALITY PROTOCOL)
 
-Repositori ini berada di bawah yurisdiksi **PT Pelabuhan Indonesia (Persero) Regional 2 Teluk Bayur**. Segala bentuk informasi, arsitektur database, dan logika program di dalamnya bersifat rahasia. Pelanggaran terhadap kerahasiaan data ini akan diproses sesuai dengan peraturan perusahaan dan perundang-undangan yang berlaku mengenai ITE dan Perlindungan Data Perusahaan.
+Dokumen ini dan seluruh aset perangkat lunak di dalamnya merupakan aset strategis **PT Pelabuhan Indonesia (Persero) Regional 2 Teluk Bayur**. 
 
----
-
-### RINGKASAN EKSEKUTIF (EXECUTIVE SUMMARY)
-
-**MERCU** dirancang untuk mentransformasi manajemen aset operasional menjadi ekosistem digital yang terintegrasi. Fokus utama sistem mencakup:
-* **Reporting Centralization:** Konsolidasi laporan kerusakan fasilitas dari seluruh unit kerja.
-* **Technical Taskforce Monitoring:** Pemantauan respons dan progres perbaikan oleh teknisi secara transparan.
-* **Operational Reliability:** Memastikan infrastruktur pelabuhan tetap dalam kondisi prima guna mendukung kelancaran logistik nasional.
+Pemanfaatan data tunduk pada pakta integritas teknologi informasi perusahaan. Akses tidak sah, percobaan penetrasi, atau pendistribusian kode sumber secara eksternal akan diidentifikasi melalui audit log sistem dan ditindaklanjuti secara hukum sesuai dengan kebijakan **Cyber Security Pelindo**.
 
 ---
 
-### PROTOKOL KONTROL AKSES (ACCESS CONTROL PROTOCOLS)
+### ANALISIS STRATEGIS (EXECUTIVE STRATEGY)
 
-Otorisasi akses hanya diberikan kepada administrator dan pengembang sistem yang telah melalui proses verifikasi internal.
+MERCU diimplementasikan untuk menjamin ketersediaan fasilitas pelabuhan melalui metodologi *Preventive & Corrective Maintenance*. Fokus utama sistem meliputi:
 
-#### 1. Mekanisme Autentikasi Git
-Pengembang wajib menggunakan jalur koneksi **Secure Shell (SSH)** dengan kunci RSA/ED25519 yang telah didaftarkan pada sistem kontrol versi internal Pelindo.
+1.  **Centralized Asset Reporting:** Standarisasi alur pelaporan insiden fasilitas operasional.
+2.  **Agile Technical Response:** Percepatan distribusi instruksi kerja kepada teknisi lapangan.
+3.  **Data-Driven Maintenance:** Penyediaan analitik untuk pengambilan keputusan pemeliharaan aset jangka panjang.
 
-#### 2. Inisialisasi Lingkungan Pengembangan (Development Environment)
-Setelah hak akses diberikan, prosedur standar inisialisasi adalah sebagai berikut:
+---
+
+### PROTOKOL OTORISASI TEKNIS (TECHNICAL AUTHORIZATION PROTOCOLS)
+
+Integrasi ke dalam core sistem ini memerlukan kredensial tingkat tinggi yang dikelola oleh administrator sistem.
+
+#### 1. Keamanan Jalur Transmisi (Git Security)
+Pengembang wajib mengonfigurasi **SSH Key Authentication** pada mesin kerja (Parrot OS/Linux Environment) sebelum melakukan interaksi dengan repositori. Penggunaan protokol HTTP/HTTPS sangat tidak disarankan untuk alasan keamanan.
+
+#### 2. Prosedur Inisialisasi Sistem (System Initialization)
+Ikuti instruksi standardisasi berikut untuk sinkronisasi environment lokal:
 
 ```bash
-# Prosedur Kloning via SSH
+# Sinkronisasi Repositori via Secure Shell
 git clone git@github.com:Muhammad-Zacky/MERCU.git
 
-# Sinkronisasi Dependensi Arsitektur
+# Konfigurasi Dependensi Core & Frontend
 cd MERCU/mercu-app
-composer install --no-dev
+composer install --no-dev --optimize-autoloader
 npm install
 
-# Kompilasi Aset Produksi
+# Kompilasi Produksi (Vite Bundling)
 npm run build
