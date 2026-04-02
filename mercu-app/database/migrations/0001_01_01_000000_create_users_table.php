@@ -11,22 +11,33 @@ return new class extends Migration
      */
     public function up(): void
     {
+        // 1. Membuat Tabel Users Utama
         Schema::create('users', function (Blueprint $table) {
             $table->id();
             $table->string('name');
+            $table->string('nipp')->unique(); // Menggunakan NIPP untuk login
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
+            
+            // Kolom Tambahan untuk Aplikasi MERCU/DOCK
+            $table->enum('role', ['admin', 'technician'])->default('technician');
+            $table->string('profile_photo')->nullable(); // Foto Teknisi
+            $table->foreignId('unit_id')->nullable()->constrained('units')->nullOnDelete(); // Relasi ke tabel units
+            $table->boolean('is_active')->default(true);
+            
             $table->rememberToken();
             $table->timestamps();
         });
 
+        // 2. Membuat Tabel Lupa Password (Bawaan Laravel)
         Schema::create('password_reset_tokens', function (Blueprint $table) {
             $table->string('email')->primary();
             $table->string('token');
             $table->timestamp('created_at')->nullable();
         });
 
+        // 3. Membuat Tabel Sessions (Bawaan Laravel - Wajib untuk SESSION_DRIVER=database)
         Schema::create('sessions', function (Blueprint $table) {
             $table->string('id')->primary();
             $table->foreignId('user_id')->nullable()->index();
@@ -42,6 +53,7 @@ return new class extends Migration
      */
     public function down(): void
     {
+        // Menghapus tabel dengan urutan kebalikan agar tidak terjadi error relasi
         Schema::dropIfExists('users');
         Schema::dropIfExists('password_reset_tokens');
         Schema::dropIfExists('sessions');
