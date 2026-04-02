@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=Venom&color=0054A6&height=250&section=header&text=M%20E%20R%20C%20U&fontSize=80&animation=fadeIn&fontColor=FFFFFF&desc=MANAGEMENT%20E-REPORTING%20%26%20CARE%20UNIT&descSize=20&descAlignVertical=60" width="100%"/>
-
 <br>
 
 <div class="identity-header">
