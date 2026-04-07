@@ -73,11 +73,11 @@ Akses *high-level* untuk memantau trafik, statistik, manajemen staf, dan tiket p
 
 | Overview / Tinjauan Sistem | Statistik Laporan Interaktif |
 | :---: | :---: |
-| <img src="MARKUP/adminTinjauan.png" alt="Admin Tinjauan" width="400"> | <img src="MERCU/adminStatistik.png" alt="Admin Statistik" width="400"> |
+| <img src="MARKUP/adminTinjauan.png" alt="Admin Tinjauan" width="400"> | <img src="MARKUP/adminStatistik.png" alt="Admin Statistik" width="400"> |
 
 | Manajemen Tiket Laporan | Manajemen Staf & Teknisi | Konfigurasi Profil Admin |
 | :---: | :---: | :---: |
-| <img src="MARKUP/adminTicket.png" alt="Admin Ticket" width="250"> | <img src="MERCU/adminStaf.png" alt="Admin Staf" width="250"> | <img src="MARKUP/adminProfile.png" alt="Admin Profile" width="250"> |
+| <img src="MARKUP/adminTicket.png" alt="Admin Ticket" width="250"> | <img src="MARKUP/adminStaf.png" alt="Admin Staf" width="250"> | <img src="MARKUP/adminProfile.png" alt="Admin Profile" width="250"> |
 
 <br>
 
