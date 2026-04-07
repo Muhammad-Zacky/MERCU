@@ -64,7 +64,7 @@ Fase inisialisasi pengguna dan validasi keamanan sebelum memasuki *command cente
 
 | Splash Screen (Initialization) | Login Gateway (Authentication) | General Report (Input Form) |
 | :---: | :---: | :---: |
-| <img src="MERCU/Mercu.png" alt="Splash Screen" width="250"> | <img src="MERCU/login.png" alt="Login Page" width="250"> | <img src="MERCU/report.png" alt="Report Page" width="250"> |
+| <img src="MARKUP/Mercu.png" alt="Splash Screen" width="250"> | <img src="MARKUP/login.png" alt="Login Page" width="250"> | <img src="MARKUP/report.png" alt="Report Page" width="250"> |
 
 <br>
 
@@ -73,11 +73,11 @@ Akses *high-level* untuk memantau trafik, statistik, manajemen staf, dan tiket p
 
 | Overview / Tinjauan Sistem | Statistik Laporan Interaktif |
 | :---: | :---: |
-| <img src="MERCU/adminTinjauan.png" alt="Admin Tinjauan" width="400"> | <img src="MERCU/adminStatistik.png" alt="Admin Statistik" width="400"> |
+| <img src="MARKUP/adminTinjauan.png" alt="Admin Tinjauan" width="400"> | <img src="MERCU/adminStatistik.png" alt="Admin Statistik" width="400"> |
 
 | Manajemen Tiket Laporan | Manajemen Staf & Teknisi | Konfigurasi Profil Admin |
 | :---: | :---: | :---: |
-| <img src="MERCU/adminTicket.png" alt="Admin Ticket" width="250"> | <img src="MERCU/adminStaf.png" alt="Admin Staf" width="250"> | <img src="MERCU/adminProfile.png" alt="Admin Profile" width="250"> |
+| <img src="MARKUP/adminTicket.png" alt="Admin Ticket" width="250"> | <img src="MERCU/adminStaf.png" alt="Admin Staf" width="250"> | <img src="MARKUP/adminProfile.png" alt="Admin Profile" width="250"> |
 
 <br>
 
@@ -86,11 +86,11 @@ Antarmuka khusus bagi *engineer/technician* untuk mengambil tiket, memproses per
 
 | Laporan Masuk (Incoming) | Detail Instruksi Kerja | Status Pekerjaan (On Progress) |
 | :---: | :---: | :---: |
-| <img src="MERCU/tekLaporan.png" alt="Teknisi Laporan Masuk" width="250"> | <img src="MERCU/tekDetail.png" alt="Teknisi Detail Laporan" width="250"> | <img src="MERCU/tekOn.png" alt="Teknisi On Progress" width="250"> |
+| <img src="MARKUP/tekLaporan.png" alt="Teknisi Laporan Masuk" width="250"> | <img src="MARKUP/tekDetail.png" alt="Teknisi Detail Laporan" width="250"> | <img src="MARKUP/tekOn.png" alt="Teknisi On Progress" width="250"> |
 
 | Riwayat Pekerjaan (History) | Manajemen Profil & Foto Teknisi |
 | :---: | :---: |
-| <img src="MERCU/tekHistory.png" alt="Teknisi History" width="400"> | <img src="MERCU/tekProfile.png" alt="Teknisi Profile" width="400"> |
+| <img src="MARKUP/tekHistory.png" alt="Teknisi History" width="400"> | <img src="MARKUP/tekProfile.png" alt="Teknisi Profile" width="400"> |
 
 ---
 
